@@ -31,7 +31,6 @@ Here is the description of all the variables :
 12. count: number of total rentals
 
 ## How good are your predictions?
-# Evaluation Metric
-The Evaluation metric for this project is Root Mean Squared Logarithmic
-Error (RMSLE).
+
+**Evaluation Metric:** The Evaluation metric for this project is Root Mean Squared Logarithmic Error (RMSLE).
 
